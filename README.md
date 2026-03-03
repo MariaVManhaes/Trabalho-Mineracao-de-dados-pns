@@ -1,6 +1,6 @@
 # Trabalho de Mineração de Dados (PNS 2019)
 
-Este repositório contém códigos e análises usando microdados da Pesquisa Nacional de Saúde (PNS) 2019.  
+Este repositório contém códigos e análises usando dados da Pesquisa Nacional de Saúde (PNS) 2019.  
 
 Os scripts calculam indicadores sobre **idosos, doenças crônicas e depressão**, servindo como análise inicial da base (corresponde à AP1 do trabalho).
 
